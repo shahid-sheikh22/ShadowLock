@@ -31,6 +31,5 @@
 - **Language:** Java
 - **Database:** MySQL / SQLite (whichever you used)
 - **Email Service:** JavaMail API Jarkarta
-- **UI:** Java Swing
 
 
